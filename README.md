@@ -17,7 +17,8 @@ The course takes two hours. The plan is:
 
 [Codecademy OOP exercises](http://www.codecademy.com/courses/python-intermediate-en-WL8e4/3/1?curriculum_id=4f89dab3d788890003000096)
 
-Web articles with Python tips:
+# Python Guides from the Internet
 
+* http://docs.python-guide.org/
 * http://maxburstein.com/blog/python-shortcuts-for-the-python-beginner/
 * http://sahandsaba.com/thirty-python-language-features-and-tricks-you-may-not-know.html#introduction
