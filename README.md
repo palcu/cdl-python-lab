@@ -22,3 +22,4 @@ The course takes two hours. The plan is:
 * http://docs.python-guide.org/
 * http://maxburstein.com/blog/python-shortcuts-for-the-python-beginner/
 * http://sahandsaba.com/thirty-python-language-features-and-tricks-you-may-not-know.html#introduction
+* http://lignos.org/py_antipatterns/
