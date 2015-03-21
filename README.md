@@ -23,3 +23,4 @@ The course takes two hours. The plan is:
 * http://maxburstein.com/blog/python-shortcuts-for-the-python-beginner/
 * http://sahandsaba.com/thirty-python-language-features-and-tricks-you-may-not-know.html#introduction
 * http://lignos.org/py_antipatterns/
+* my scraper for the [CDL submissions](https://github.com/palcu/convertor/blob/master/blog_post/parse_submissions.py)
