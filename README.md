@@ -3,7 +3,7 @@ cdl-python-lab
 
 Python exercises for [CDL students](http://cdl.rosedu.org/2014/#acasa) taken from [Google's Python Class](https://developers.google.com/edu/python/).
 
-[Slides](https://docs.google.com/presentation/d/10lZyWTD_LPKHhQbQFfUnoe2Ng45K89wTlyFxXJkQuMU/edit#slide=id.g1ce35f271_35)
+[Slides](https://docs.google.com/presentation/d/10lZyWTD_LPKHhQbQFfUnoe2Ng45K89wTlyFxXJkQuMU/pub?start=false&loop=false&delayms=60000)
 
 The course takes two hours. The plan is:
 
