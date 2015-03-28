@@ -35,8 +35,8 @@ The course takes two hours. The plan is:
 
 * my scraper for the [CDL submissions](https://github.com/palcu/convertor/blob/master/blog_post/parse_submissions.py)
 * https://github.com/palcu/hackernews-scraper
-* https://github.com/palcu/crawler-arhiva-campion
-* https://github.com/palcu/tabulaturi.ro-crawler
 * https://github.com/euhackathon/commission-today-api
 * https://github.com/palcu/statistici_alegeri2014_valcea
 * https://github.com/palcu/github_repo_ranking
+* https://github.com/palcu/crawler-arhiva-campion
+* https://github.com/palcu/tabulaturi.ro-crawler
