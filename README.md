@@ -1,5 +1,7 @@
 # Python Lab
 
+[![Join the chat at https://gitter.im/palcu/cdl-python-lab](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/palcu/cdl-python-lab?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Python exercises taken from [Google's Python Class](https://developers.google.com/edu/python/), used by me for teaching a workshop of Python. It was originally intended only for the students at the [ROSEdu Community and Development Lab](http://cdl.rosedu.org/) in 2014, but I've used it at more events since then.
 
 [Slides](https://docs.google.com/presentation/d/10lZyWTD_LPKHhQbQFfUnoe2Ng45K89wTlyFxXJkQuMU/pub?start=false&loop=false&delayms=60000) that help me not forget what to show to the students.
