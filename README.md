@@ -24,14 +24,14 @@ The course takes two hours. The plan is:
 * show them `requests` and `beautifulsoup` using the [CDL submissions scraper](https://github.com/palcu/convertor/blob/master/blog_post/parse_submissions.py) as an example (~10 mins)
 * maybe show them OOP at the end and give them the [Codecademy OOP](http://www.codecademy.com/courses/python-intermediate-en-WL8e4/3/1?curriculum_id=4f89dab3d788890003000096) exercises
 
-# Python Guides from the Internet
+# Guides
 
 * http://docs.python-guide.org/
 * http://maxburstein.com/blog/python-shortcuts-for-the-python-beginner/
 * http://sahandsaba.com/thirty-python-language-features-and-tricks-you-may-not-know.html
 * http://lignos.org/py_antipatterns/
 
-# Python scripts written by me
+# Code written by me
 
 * my scraper for the [CDL submissions](https://github.com/palcu/convertor/blob/master/blog_post/parse_submissions.py)
 * https://github.com/palcu/hackernews-scraper
