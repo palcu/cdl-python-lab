@@ -12,10 +12,16 @@ The course takes two hours. The plan is:
 * make a demo in the terminal and tell them about variables
 * code the first function (they should code along)
 * explain in the terminal strings (everything should have taken ~30 mins)
-* leave them 20 mins for `string1.py` and another 10 mins for `string2.py`
+* leave them ~20 mins for `string1.py` and another ~10 mins for `string2.py`
 * explain lists (~10 mins)
 * `list1.py` takes around 10 mins and `list2.py` another 10 mins
-* show dicts and reading files (~10 mins)
+* show dicts and reading from files (~10 mins)
+* give them to implement `wordcount.py` if you have time, or give it as homework (~30 mins)
+
+### Optional
+
+* how to get the list of Facebook friends using the FacebookSDK (~15 mins)
+* show them `requests` and `beautifulsoup` using the [CDL submissions scraper](https://github.com/palcu/convertor/blob/master/blog_post/parse_submissions.py) as an example (~10 mins)
 * maybe show them OOP at the end and give them the [Codecademy OOP](http://www.codecademy.com/courses/python-intermediate-en-WL8e4/3/1?curriculum_id=4f89dab3d788890003000096) exercises
 
 # Python Guides from the Internet
