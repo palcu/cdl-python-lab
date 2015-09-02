@@ -6,7 +6,7 @@ Python exercises taken from [Google's Python Class](https://developers.google.co
 
 [Slides](https://docs.google.com/presentation/d/10lZyWTD_LPKHhQbQFfUnoe2Ng45K89wTlyFxXJkQuMU/pub?start=false&loop=false&delayms=60000) that help me not forget what to show to the students.
 
-You can use an [online IDE](http://www.tutorialspoint.com/execute_python3_online.php) or install [Python 3](http://python.org/downloads) on your machine.
+[LighTable](http://lighttable.com/) is the recommended IDE for the course.
 
 # Plan
 
