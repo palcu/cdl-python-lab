@@ -45,4 +45,3 @@ filename = "small.txt"
 words = read_contents(filename)
 print_words(words)
 print_top(words)
-

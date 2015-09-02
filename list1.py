@@ -48,5 +48,3 @@ def remove_adjacent(nums):
 test(remove_adjacent([1, 2, 2, 3]), [1, 2, 3])
 test(remove_adjacent([2, 2, 3, 3, 3]), [2, 3])
 test(remove_adjacent([]), [])
-
-
