@@ -6,6 +6,8 @@ Python exercises taken from [Google's Python Class](https://developers.google.co
 
 [Slides](https://docs.google.com/presentation/d/10lZyWTD_LPKHhQbQFfUnoe2Ng45K89wTlyFxXJkQuMU/pub?start=false&loop=false&delayms=60000) that help me not forget what to show to the students.
 
+[LighTable](http://lighttable.com/) is the recommended IDE for the course.
+
 # Plan
 
 The course takes two hours. The plan is:
