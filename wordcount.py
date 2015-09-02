@@ -40,7 +40,6 @@ def print_top(words):
   return
 
 
-# Do not touch
 filename = "small.txt"
 words = read_contents(filename)
 print_words(words)
