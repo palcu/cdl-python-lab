@@ -8,6 +8,8 @@ Python exercises taken from [Google's Python Class](https://developers.google.co
 
 [LightTable](http://lighttable.com/) is the recommended IDE for the course.
 
+Use [PythonTutor](http://www.pythontutor.com/visualize.html#mode=edit) to visualize the algorithm you have written.
+
 # Plan
 
 The course takes two hours. The plan is:
