@@ -1,6 +1,5 @@
 def test(got, expected):
   if got == expected:
-    prefix = 'Correct'
+    return 'Correct'
   else:
-    prefix = 'Wrong'
-  return '%s. Got: %s' % (prefix, repr(got))
+    return 'Wrong. Got ' + repr(got)

@@ -29,14 +29,17 @@
 
 
 def read_contents(filename):
+  # +++your code here+++
   return
 
 
 def print_words(words):
+  # +++your code here+++
   return
 
 
 def print_top(words):
+  # +++your code here+++
   return
 
 
