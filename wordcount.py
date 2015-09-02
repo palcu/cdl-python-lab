@@ -32,17 +32,17 @@ def read_contents(filename):
   return
 
 
-def print_words(text):
+def print_words(words):
   return
 
 
-def print_top(text):
+def print_top(words):
   return
 
 
 # Do not touch
 filename = "small.txt"
-text = read_contents(filename)
-print_words(text)
-print_top(text)
+words = read_contents(filename)
+print_words(words)
+print_top(words)
 
